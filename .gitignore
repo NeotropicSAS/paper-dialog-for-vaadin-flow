@@ -1,7 +1,7 @@
-/paper-dialog-flow/target/
-/paper-dialog-flow/frontend/generated/
-/paper-dialog-flow-demo/target/
-/paper-dialog-flow-demo/frontend/generated/
+/paper-dialog-for-vaadin-flow/target/
+/paper-dialog-for-vaadin-flow/frontend/generated/
+/paper-dialog-for-vaadin-flow-demo/target/
+/paper-dialog-for-vaadin-flow-demo/frontend/generated/
 
 .idea/
 .vscode/
