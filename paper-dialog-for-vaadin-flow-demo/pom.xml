@@ -5,7 +5,7 @@
     <groupId>com.neotropic.flow.component</groupId>
     <artifactId>paper-dialog-for-vaadin-flow-demo</artifactId>
     <name>Paper Dialog Flow Demo</name>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <packaging>jar</packaging>
 
     <organization>
